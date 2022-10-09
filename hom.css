@@ -1,0 +1,143 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+#box{
+    /* background: linear-gradient(rgb(40, 145, 187), white); */
+    background: linear-gradient(black,black,rgb(18, 18, 196),blue,skyblue, rgb(189, 211, 219));
+}
+#container{
+    text-align: center;
+    font-size: 28px;
+    text-shadow: 2px 2px grey;
+    color: darkblue;
+  height: 200px;
+   background: linear-gradient(black,white);
+  padding: 180px 1px 200px 1px ;
+  margin: 0px;
+}
+#container1 h3{
+    font-size: 50px;
+    color: rgb(191, 194, 19);
+}
+#container2 picture{
+    margin-left: 400px;
+    margin-top: 800px;
+}
+#container2 h3{
+    font-size: 50px;
+    color: rgb(191, 194, 19);
+}
+#container3 h3{
+    font-size: 50px;
+    color: rgb(191, 194, 19);
+}
+#container4 h3{
+    font-size: 50px;
+    color: rgb(191, 194, 19);
+}
+#container5 h3{
+    font-size: 50px;
+    color: rgb(191, 194, 19);
+}
+#container1 p{
+    font-style: italic;
+    font-size: 50px;
+}
+#container2 p{
+    font-style: italic;
+    font-size: 50px;
+    color: white;
+}
+#container3 p{
+    font-style: italic;
+    font-size: 50px;
+    color: white;
+}
+#container4 p{
+    font-style: italic;
+    font-size: 50px;
+    color: white;
+}
+#container5 p{
+    font-style: italic;
+    font-size: 50px;
+    color: white;
+}
+#container1{
+    height: 1100px;
+  color: white;
+  /* background: linear-gradient(rgb(1, 1, 104),skyblue); */
+}
+#container1 h1{
+    text-align: center;
+    font-size: 80px;
+    color: rgb(226, 43, 226);
+}
+#container2  h1{
+    text-align: center;
+    font-size: 80px;
+    color: rgb(139, 39, 39);
+}
+#container3 h1{
+    text-align: center;
+    font-size: 80px;
+    color: rgb(226, 43, 226);
+}
+#container4 h1{
+    text-align: center;
+    font-size: 80px;
+    color: rgb(226, 43, 226);
+}
+#container5 h1{
+    text-align: center;
+    font-size: 80px;
+    color: rgb(226, 43, 226);
+}
+#container1 .x{
+    display: flex;
+}
+#container2 .x{
+    display: flex;
+}
+#container3 .x{
+    display: flex;
+}
+#container4 .x{
+    display: flex;
+}
+#container5 .x{
+    display: flex;
+}
+#container2{
+    height: 950px;color: white;
+    /* background: linear-gradient(rgb(18, 18, 139),skyblue); */
+    border: 2px dotted rgb(12, 12, 12);
+    border-left: white;
+    border-right: white;
+}
+#container3{
+    height: 900px;
+  color: white;
+}
+#container4 picture{
+    margin-left: 300px;
+}
+#container4{
+    height: 850px;
+    color: white;
+    border: 2px dotted rgb(19, 18, 18);
+    border-left: white;
+    border-right: white;
+}
+#container5{
+    height: 1290px;
+   color: rgb(27, 26, 26);
+}
+.human{
+    padding: 100px, 200px 300px;
+    margin-top: 1000px;
+    margin-left: 400px;
+    margin-bottom: 1500px;
+}
